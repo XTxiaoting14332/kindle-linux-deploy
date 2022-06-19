@@ -19,7 +19,9 @@ Extract <code>KLD.zip</code> and move <code>KLD/</code> to <code>extensions/</co
 Launch KUAL and select <code>Kindle Linux Deploy</code></p>
 启动KUAL并选择<code>Kindle Linux Deploy</code></p></p>
 Select <code>Delpoy</code> to start.</p>
-选择<code>Delpoy</code>以开始
+选择<code>Delpoy</code>以开始</p></p>
+If you want to launch GUI,please select<code>Satrt GUI</code>to launch.<strong>Please deploy a Linux with GUI first</strong></p>
+如果你想要启动gui，请点击<code>Satrt GUI</code>来启动。<strong>需要先安装一个带有GUI的Linux</strong></p></p>
 
 </p></p></p>
 <strong>Tips:Ubuntu14.04 has many error</strong>
