@@ -3,6 +3,8 @@ Deploy Linux on your kindle
 ![@PQBDHME$N`_LM3CH{CR%Y9](https://user-images.githubusercontent.com/96647974/170999717-2d21b22b-1f13-41ed-a239-92e7953ba7d8.png)</p>
 By this,you can install Linux on your kindle.Even launch GUI!!</p>
 </p>
+参考了https://github.com/schuhumi/alpine_kindle</p>
+感谢schuhumi大佬提供的灵感
 <h2>Installion</h2>
 Before install,your kindle needs to <strong>Jailbreak and install kterm extension</strong>.</p>
 在安装前，你的kindle需要<strong>越狱并安装kterm插件</strong></p></p>
